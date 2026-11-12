@@ -1,0 +1,48 @@
+body {
+    box-sizing: border-box;
+}
+
+body {
+    font-family: 'Open Sans', sans-serif;
+    margin: 0;
+}
+
+h1, h2, h3 {
+    font-family: 'Montserrat', sans-serif;
+}
+
+nav a {
+    text-decoration: none;
+    font-weight: bold;
+}
+
+img {
+    max-width: 100%;
+}
+
+footer {
+    text-align: center;
+    padding: 20px;
+}
+
+#about{
+    background-color: rgba(128, 128, 128, 0.459)
+}
+
+#specialpara{
+    font-size: 18px;
+    font-weight: bold;
+}
+
+#specialheader{
+    text-decoration:underline;
+}
+
+#Home {
+    background-image:url("backgroundcar.avif");
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+
+
